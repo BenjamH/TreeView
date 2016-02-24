@@ -1,0 +1,29 @@
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font: 10px sans-serif;
+  stroke: white;
+}
+
+.link {
+  fill: none;
+  stroke: white;
+  stroke-width: 1.5px;
+}
+
+textarea {
+  width: 20em;
+  height: 5em;
+}
+
+body {
+  background-color: black;
+}
